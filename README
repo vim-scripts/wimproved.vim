@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5265
+
+An effort to create a better editing experience for Vim on Windows.
+Supports fulls-screen while taking care to fix visual glitches seen in
+other plugins.
+
+See https://github.com/kkoenig/wimproved.vim#readme

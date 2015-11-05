@@ -1,0 +1,7 @@
+AlignTrailingComments: true
+AllowShortIfStatementsOnASingleLine: true
+ColumnLimit: 80
+BreakBeforeBraces: Allman
+TabWidth: 4
+IndentWidth: 4
+PointerBindsToType: true
