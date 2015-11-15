@@ -25,7 +25,7 @@ Supports fullscreen while taking care to fix visual glitches seen in
 other plugins.
 
 Put the following in your .vimrc and enjoy! >
-    autocmd GUIEnter * WToggleClean 
+    autocmd GUIEnter * silent! WToggleClean
 
 ==============================================================================
 COMMANDS                                                *wimproved-commands*

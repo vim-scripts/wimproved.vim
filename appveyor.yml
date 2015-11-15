@@ -1,0 +1,9 @@
+version: '{build}'
+os: Windows Server 2012 R2
+build_script:
+  - .\make.cmd
+test_script:
+  - npm test
+artifacts:
+- path: '*.dll'
+- path: test-output\**\*.png

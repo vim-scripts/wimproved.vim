@@ -1,0 +1,24 @@
+{
+  "name": "wimproved.vim",
+  "version": "0.2.0",
+  "description": "An effort to create a better editing experience for Vim on Windows.<br>\r Supports fullscreen while taking care to fix visual glitches seen in\r other plugins.",
+  "dependencies": {
+    "node-resemble-js": "^0.0.4"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  },
+  "scripts": {
+    "test": "powershell -ep Bypass ./run-tests.ps1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkoenig/wimproved.vim.git"
+  },
+  "author": "kkoenig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kkoenig/wimproved.vim/issues"
+  },
+  "homepage": "https://github.com/kkoenig/wimproved.vim#readme"
+}
